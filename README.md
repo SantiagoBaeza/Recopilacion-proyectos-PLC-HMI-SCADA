@@ -7,7 +7,7 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 ## 📘 Índice de Proyectos
 
 ### 00. PLC (Siemens/TIA Portal)
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/cerradura-electronica-keypad)
+- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
 - 🛠️ Tecnologías: PLC Siemens 1200, TIA Portal.
 - 📄 Descripción: Se pueden ver ejercicios y aplicaciones tipicas del plc junto a su programacion en escalera.
 
