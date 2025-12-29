@@ -32,3 +32,7 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 ## Objetivo
 Este repositorio funciona como índice de proyectos de **PLC, HMI y SCADA**.  
 Cada sección enlaza a repositorios específicos donde se encuentra la documentación y los ejercicios prácticos.
+
+---
+
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
