@@ -5,24 +5,24 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
 
 ---
 
-## 📘 Índice de Proyectos
+## Índice de Proyectos
 
-### 00. PLC (Siemens/TIA Portal)
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
-- 🛠️ Tecnologías: PLC Siemens 1200, TIA Portal.
-- 📄 Descripción: Se pueden ver ejercicios y aplicaciones tipicas del plc junto a su programacion en escalera.
+- **PLC (Siemens/TIA Portal)**
+  Ejercicios y proyectos de programación de PLC orientados al control de procesos industriales.  
+  Incluye ejemplos con **Siemens S7‑1200**, uso de **TIA Portal**, y prácticas de automatización básica.
+   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
 
----
+- **HMI**
+  Introducción al diseño de interfaces gráficas para la interacción entre operador y máquina.  
+  Se trabajará con herramientas como **FactoryTalk View ME** y **PanelView**, enfocadas en la creación de pantallas de control y monitoreo industrial.
+   🔗 [en contruccion](enlace aca)
 
-### 01. HMI
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas)
-- 🛠️ Tecnologías: ...
-- 📄 Descripción: ...
+- **SCADA**
+  Introducción a sistemas de supervisión y control industrial. Ejemplos de configuración, monitoreo en tiempo real y diseño de pantallas gráficas para visualizar procesos.
+   🔗 [en contruccion](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
   
 ---
 
-### 02. SCADA
-- 🔗 [Ver repositorio](https://github.com/SantiagoBaeza/potenciometro-se-ales-analogicas)
-- 🛠️ Tecnologías: ...
-- 📄 Descripción: ...
-  
+## Objetivo
+Este repositorio funciona como índice de proyectos de **PLC, HMI y SCADA**.  
+Cada sección enlaza a repositorios específicos donde se encuentra la documentación y los ejercicios prácticos.
