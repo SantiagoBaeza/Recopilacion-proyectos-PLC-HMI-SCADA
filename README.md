@@ -1,3 +1,4 @@
+[⬅️ Volver al repositorio principal](https://github.com/SantiagoBaeza/Portafolio-tecnico)
 # Recopilacion de Proyectos con PLC/HMI/SCADA
 
 Este repositorio contiene un listado organizado de mis proyectos. Cada uno está documentado y alojado en su propio repositorio individual.
