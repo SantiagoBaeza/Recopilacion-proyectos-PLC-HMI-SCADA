@@ -19,13 +19,13 @@ Este repositorio contiene un listado organizado de mis proyectos. Cada uno está
   Introducción al diseño de interfaces gráficas para la interacción entre operador y máquina.  
   Se trabajará con herramientas como **FactoryTalk View ME** y **PanelView**, enfocadas en la creación de pantallas de control y monitoreo industrial.
 
-  🔗 [en contruccion](enlace_aca)
+  🔗 [en construccion](enlace_aca)
 
 - **SCADA**
   
   Introducción a sistemas de supervisión y control industrial. Ejemplos de configuración, monitoreo en tiempo real y diseño de pantallas gráficas para visualizar procesos.
 
-  🔗 [en contruccion](enlace_aca)
+  🔗 [en construccion](enlace_aca)
   
 ---
 
@@ -35,4 +35,4 @@ Cada sección enlaza a repositorios específicos donde se encuentra la documenta
 
 ---
 
-> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
