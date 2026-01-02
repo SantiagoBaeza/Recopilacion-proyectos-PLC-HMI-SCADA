@@ -22,7 +22,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 - **SCADA**  
   Introducción a sistemas de supervisión y control industrial.  
   Ejemplos de configuración, monitoreo en tiempo real y diseño de pantallas gráficas para visualizar procesos.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/SCADA/tree/main)
 
 ---
 
