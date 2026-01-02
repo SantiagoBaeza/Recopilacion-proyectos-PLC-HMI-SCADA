@@ -14,12 +14,12 @@ Cada uno está documentado y alojado en su propio repositorio individual.
   Incluye ejemplos con **Siemens S7‑1200**, uso de **TIA Portal**, y prácticas de automatización básica.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
 
-- **HMI**  
+- **HMI [N/A]**  
   Introducción al diseño de interfaces gráficas para la interacción entre operador y máquina.  
   Se trabajará con herramientas como **FactoryTalk View ME** y **PanelView**, enfocadas en la creación de pantallas de control y monitoreo industrial.  
   🔗 [En repositorio](https://github.com/SantiagoBaeza/HMI/tree/main)
 
-- **SCADA**  
+- **SCADA [N/A]**  
   Introducción a sistemas de supervisión y control industrial.  
   Ejemplos de configuración, monitoreo en tiempo real y diseño de pantallas gráficas para visualizar procesos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/SCADA/tree/main)
