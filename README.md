@@ -17,7 +17,7 @@ Cada uno está documentado y alojado en su propio repositorio individual.
 - **HMI**  
   Introducción al diseño de interfaces gráficas para la interacción entre operador y máquina.  
   Se trabajará con herramientas como **FactoryTalk View ME** y **PanelView**, enfocadas en la creación de pantallas de control y monitoreo industrial.  
-  🔗 [En construcción](enlace_aca)
+  🔗 [En repositorio](https://github.com/SantiagoBaeza/HMI/tree/main)
 
 - **SCADA**  
   Introducción a sistemas de supervisión y control industrial.  
