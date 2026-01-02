@@ -3,7 +3,7 @@
 # Recopilación de Proyectos con PLC/HMI/SCADA
 
 Este repositorio contiene un listado organizado de mis proyectos.  
-Cada uno está documentado y alojado en su propio repositorio individual.
+Cada uno está documentado y alojado en su propio repositorio individual. Son los temas centrales de mi capacitacion en este momento.
 
 ---
 
