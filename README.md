@@ -3,7 +3,7 @@
 # Recopilación de Proyectos con PLC/HMI/SCADA
 
 Este repositorio contiene un listado organizado de mis proyectos.  
-Cada uno está documentado y alojado en su propio repositorio individual. Son los temas centrales de mi capacitacion en este momento.
+Cada uno está documentado y alojado en su propio repositorio individual. Son los temas centrales de mi capacitación en este momento.
 
 ---
 
@@ -24,11 +24,16 @@ Cada uno está documentado y alojado en su propio repositorio individual. Son lo
   Ejemplos de configuración, monitoreo en tiempo real y diseño de pantallas gráficas para visualizar procesos.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/SCADA/tree/main)
 
+- **Conceptos importantes de Ladder**  
+  Repositorio dedicado a apuntes y simulaciones que ilustran buenas prácticas y errores comunes en programación de PLC.  
+  Incluye ejemplos de enclavamientos, uso de funciones SET/RESET y repetición de bobinas.  
+  🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder) *(ficticio, en construcción)*
+
 ---
 
 ## Objetivo
-Este repositorio funciona como índice de proyectos de **PLC, HMI y SCADA**.  
-Cada sección enlaza a repositorios específicos donde se encuentra la documentación y los ejercicios prácticos.
+Este repositorio funciona como índice de proyectos de **PLC, HMI y SCADA**, complementado con un espacio de **conceptos importantes de Ladder**.  
+Cada sección enlaza a repositorios específicos donde se encuentra la documentación, los ejercicios prácticos y los apuntes conceptuales.
 
 ---
 
