@@ -9,7 +9,7 @@ Cada uno está documentado y alojado en su propio repositorio individual. Son lo
 
 ## Índice de Proyectos
 
-- **PLC (Siemens/TIA Portal)**  
+- **PLC (Siemens/TIA Portal) [N/A]**  
   Ejercicios y proyectos de programación de PLC orientados al control de procesos industriales.  
   Incluye ejemplos con **Siemens S7‑1200**, uso de **TIA Portal**, y prácticas de automatización básica.  
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
