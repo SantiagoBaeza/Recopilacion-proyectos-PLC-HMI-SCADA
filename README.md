@@ -25,8 +25,7 @@ Cada uno está documentado y alojado en su propio repositorio individual. Son lo
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/SCADA/tree/main)
 
 - **Conceptos importantes de Ladder**  
-  Repositorio dedicado a apuntes y simulaciones que ilustran buenas prácticas y errores comunes en programación de PLC.  
-  Incluye ejemplos de enclavamientos, uso de funciones SET/RESET y repetición de bobinas.  
+  Repositorio dedicado a apuntes y simulaciones que ilustran buenas prácticas y errores comunes en programación de PLC.   
   🔗 [Ver repositorio](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder/tree/main)
 
 ---
